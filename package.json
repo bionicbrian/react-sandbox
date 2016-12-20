@@ -2,7 +2,7 @@
   "name": "react-sandbox",
   "version": "0.0.1",
   "description": "A tool to experiment with React Components in your browser",
-  "main": "lib/sandbox.jsx",
+  "main": "src/sandbox.jsx",
   "scripts": {
     "test": "mocha --compilers js:babel/register tests",
     "prepublish": "babel -d lib/ src",
